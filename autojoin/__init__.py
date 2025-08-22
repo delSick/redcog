@@ -1,4 +1,4 @@
 from .autojoin import AutoJoin
 
-def setup(bot):
-    bot.add_cog(AutoJoin(bot))
+async def setup(bot):
+    await bot.add_cog(AutoJoin(bot))
