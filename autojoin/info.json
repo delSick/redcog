@@ -1,0 +1,8 @@
+{
+  "author": ["David"],
+  "description": "Lässt den Bot automatisch einem Voice-Channel joinen.",
+  "install_msg": "Danke fürs Installieren von AutoJoin!",
+  "name": "autojoin",
+  "short": "Auto-Join für Voice-Channels",
+  "requirements": []
+}
