@@ -1,6 +1,7 @@
 import discord
 from redbot.core import commands
 from redbot.core.bot import Red
+from redbot.core.commands import Context 
 
 class AutoJoin(commands.Cog):
     def __init__(self, bot: Red):
