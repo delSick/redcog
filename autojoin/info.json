@@ -4,5 +4,6 @@
   "install_msg": "Danke fürs Installieren von AutoJoin!",
   "name": "autojoin",
   "short": "Auto-Join für Voice-Channels",
-  "requirements": []
+  "requirements": ["pynacl"],
+  "tags": ["voice", "auto", "join"]
 }
