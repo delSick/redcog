@@ -6,7 +6,7 @@ from redbot.core.commands import Context
 class AutoJoin(commands.Cog):
     def __init__(self, bot: Red):
         self.bot = bot
-        self.target_channel_id = None
+        self.target_channel_id = 783093706189701151
 
     @commands.command()
     async def setchannel(self, ctx: Context, channel: discord.VoiceChannel):
